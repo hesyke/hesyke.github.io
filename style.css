@@ -1,0 +1,126 @@
+/* upper-header - górny nagłówek z menu i logo  */
+body {
+  background-color: rgba(224, 198, 211, 0.144);
+}
+.upper-header {
+  width: 100%;
+  height: 100px;
+  display: flex;
+  flex-direction: row;
+  background: rgba(122, 108, 119, 0.205);
+
+  padding-left: 10px;
+}
+
+.menu i {
+  padding-left: 30px;
+  font-size: 32px;
+}
+
+.menu a {
+  color: black;
+  text-decoration: none;
+}
+.logo img {
+  padding-top: 10px;
+  width: 100px;
+}
+
+.carousel {
+  height: 300px;
+}
+.carousel-item {
+  height: 300px;
+}
+
+.carousel-item i {
+  color: black;
+}
+
+.item img {
+  position: absolute;
+  top: 0;
+  left: 0;
+  min-height: 300px;
+}
+
+.carousel-control-prev-icon {
+  background-image: url("data:image/svg+xml;charset=utf8,%3Csvg xmlns='http://www.w3.org/2000/svg' fill='%23000' viewBox='0 0 8 8'%3E%3Cpath d='M5.25 0l-4 4 4 4 1.5-1.5-2.5-2.5 2.5-2.5-1.5-1.5z'/%3E%3C/svg%3E") !important;
+}
+
+.carousel-control-next-icon {
+  background-image: url("data:image/svg+xml;charset=utf8,%3Csvg xmlns='http://www.w3.org/2000/svg' fill='%23000' viewBox='0 0 8 8'%3E%3Cpath d='M2.75 0l-1.5 1.5 2.5 2.5-2.5 2.5 1.5 1.5 4-4-4-4z'/%3E%3C/svg%3E") !important;
+}
+
+/* Products section */
+
+.products {
+  margin-top: 30px;
+  display: flex;
+  gap: 30px;
+  justify-content: center;
+}
+
+.product {
+  display: flex;
+  flex-direction: column;
+}
+.products .product img {
+  height: 125px;
+  width: auto;
+}
+
+/* Form */
+
+.heading-center {
+  margin-top: 30px;
+  display: flex;
+  justify-content: center;
+}
+.form {
+  margin-top: 30px;
+  display: flex;
+  justify-content: center;
+}
+
+.form .column {
+  display: flex;
+  flex-direction: column;
+}
+
+.form .row {
+  display: flex;
+  flex-direction: row-reverse;
+  gap: 20px;
+}
+
+.form .row .left {
+  width: 60%;
+}
+.form .row .right {
+  width: 30%;
+}
+
+/* Footer */
+.footer {
+  width: 100%;
+  height: 150px;
+  display: flex;
+  flex-direction: row;
+  background: rgba(122, 108, 119, 0.205);
+  padding-left: 10px;
+  justify-content: space-between;
+  margin-top: 50px;
+}
+
+.footer i {
+  font-size: 42px;
+}
+
+.ikonka {
+  width: 220px;
+  height: auto;
+}
+.social-media i {
+  margin: 10px;
+}
