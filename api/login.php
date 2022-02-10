@@ -24,6 +24,14 @@
         // output data of each row
         while($row = $result->fetch_assoc()) {
           echo "id: " . $row["id"]. " - e-mail: " . $row["email"]. " " . $row["login"]. "<br>";
+          setcookie("id",  $row["id"], time() + 2 * 24 * 60 * 60);
+          setcookie("login", $row["login"], time() + 2 * 24 * 60 * 60);
+          setcookie("email",  $row["email"], time() + 2 * 24 * 60 * 60);
+
+          //echo "DAne z ciastek:";
+          //echo $_COOKIE["id"];
+          //echo $_COOKIE["login"];
+          //echo $_COOKIE["email"];
         }
       } else {
         echo "0 results";
