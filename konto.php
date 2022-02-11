@@ -18,6 +18,7 @@
             </form>
             </div>
         </div>
+        <img src="img/marketing.svg" alt="Logowanie i rejestracja" />
         <div>
             <h2>Rejestracja</h2>
             <div>

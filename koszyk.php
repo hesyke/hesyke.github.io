@@ -3,15 +3,18 @@
 
     <div class="container"><h1 class="text-center">TWÓJ KOSZYK</h1></div>
 
-    <div class="container " style="border-radius:9px">
-        PRODUKTY
+    <div class="container card d-flex flex-row justify-content-between" style="border-radius:9px;">
 
-        <br>
+
+    <div class="">    
         <img src="img/3.jpg" style="max-width:120px"> - Nazwa produktu  - 59.89 zł
+        <p> cena: <strong class="text">59.89 zł</strong></p> 
+        <p> razem do zapłaty:</p>
     </div>
-    <div class="container" style="border-radius:9px">
-<p> cena: <strong class="text">59.89 zł</strong></p> 
-<p> razem do zapłaty:</p>
+
+    <div class="">
+        <img src="img/zakupy.svg" alt="product"/>
+    </div>    
 
     </div>
     <div class="container input-group mb-3 d-flex mt-4">
