@@ -92,15 +92,20 @@
                 </div>
                 <div class="grafika mt-2 container"  style="display: flex; justify-content: left; ">
                      <img src="img/grafika.jpg" alt="test" style="width: 30%; height: auto;">
-                     <p> <strong>Podoba Ci się to co widzisz 
+                     <h1> <i>Podoba Ci się to co widzisz ?
                          To tylko przykładowe projekty stworzone aby przyciągnąć uwagę potencjalnego klienta.
                          Nasi wykwalifikowani graficy chętnie przyjmą Twoje wyzwanie i stworzą unikalną postać,
-                         której nie znajdziesz nigdzie indziej. Creatode ;)<strong>
+                         której nie znajdziesz nigdzie indziej. Creatode ;)<i> </h1> 
+                         <br>
+                         <div style="display: flex; justify-content: right; align-items: end;">
+                            <img src="img/pracownicy.jpg" alt="test" style="width: 80%; height: auto;">
+                         </div>
                      </p>
-                </div>
-
+                     
+                </div> 
                 <div class="rozdzielenie mt-2"  style="display: flex; justify-content: center; ">
                      <img src="img/rozdzielenie2.png" alt="test" >
-                     </div>
+                    <!-- Szersze niż container -->
+                </div>
 
 <?php include("footer.php");?>

@@ -45,9 +45,9 @@
                             <i class="bi bi-list" id="dropdownMenu2" data-bs-toggle="dropdown" aria-expanded="false"></i>
                             <ul class="dropdown-menu" aria-labelledby="dropdownMenu2">
                                 <li><a href="produkty.php"><button class="dropdown-item" type="button">Gotowe produkty</button></a></li>
-                                <li><button class="dropdown-item" type="button">koszyk</button></li>
-                                <li><button class="dropdown-item" type="button">moje konto</button></li>
-                                <li><button class="dropdown-item" type="button">o firmie</button></li>
+                                <li><a href="koszyk.php"><button class="dropdown-item" type="button">koszyk</button></a></li>
+                                <li><a href="moje_konto.php"><button class="dropdown-item" type="button">moje konto</button></a></li>
+                                <li><a href="index.php"><button class="dropdown-item" type="button">o firmie</button></a></li>
                                <li> <p class="dropdown-item">  kontakt tel. 143219651</p> </li>
                             </ul>
                         </div>
