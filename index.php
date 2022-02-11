@@ -49,7 +49,7 @@
     </div>
     <div class="container text-white mb-4" style="background: rgba(1,1,1,0.3)"> 
     <div class="alert alert-warning alert-dismissible fade show" role="alert">
-  <strong>DO KOŃCA MIESIĄCA!</strong> pierwszy produkt -20 zł 
+  <strong>DO KOŃCA MIESIĄCA!</strong> pierwszy produkt -20 %
   <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button>
 </div> 
     
