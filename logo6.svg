@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="100px"
+   height="100px"
+   viewBox="0 0 100 100"
+   version="1.1"
+   id="SVGRoot"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs829">
+    <rect
+       x="11.788882"
+       y="31.004111"
+       width="89.89267"
+       height="45.920041"
+       id="rect13710" />
+  </defs>
+  <g
+     id="layer1">
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 23.853461,34.216488 c -0.508245,-0.207311 -0.976673,-0.591623 -1.524735,-0.621933 -2.583522,-0.142884 -6.214965,5.411407 -7.472232,7.162234 -1.221242,1.700662 -4.678167,5.618599 -1.999328,7.619208 4.007079,2.992564 12.85837,-0.01328 16.646361,-2.197021 1.12021,-0.64579 3.052964,-1.627029 3.57203,-2.978032 0.385068,-1.002239 0.0125,-1.84206 -0.186829,-2.831028 -0.205078,-1.017458 -0.203836,-2.069042 -0.918223,-2.886317 -0.457033,-0.522857 -1.249832,-1.724758 -1.703657,-1.199115 -0.41361,0.479064 -0.06238,2.220471 -0.07185,2.762729 -0.04461,2.555832 -0.06795,7.70265 -1.658552,9.751297 -2.542481,3.27463 -6.434489,1.191853 -9.832339,1.614334 -2.778378,0.345457 -4.827949,3.407357 -4.500036,6.065998 0.300594,2.437137 2.246206,2.773358 4.214382,2.178441 0.560615,-0.169456 1.093299,-0.36725 1.617477,-0.63087 0.172392,-0.0867 0.716968,-0.242622 0.524032,-0.24599 -1.295115,-0.02261 -3.143023,3.244598 -2.652937,4.461111 0.225511,0.559775 0.654428,0.219088 1.053502,0.549924 0.295313,0.244816 0.506441,0.605658 0.812136,0.843371 0.990478,0.770208 3.252398,0.29349 4.370311,0.0125 4.228613,-1.062872 1.937907,-3.099026 3.987134,-6.457656 0.458426,-0.751348 1.210631,-0.596566 1.820758,-0.09579 0.480847,0.394669 0.663022,1.118484 0.702455,1.713174 0.213187,3.215106 -2.773195,3.372196 -3.016101,4.965045 -0.621462,4.075219 5.362759,0.510712 4.037814,0.113003 -1.222865,-0.367067 -1.163753,3.020408 1.624272,1.686742 0.352688,-0.168711 0.620785,-0.43837 0.932946,-0.66408"
+       id="path1334" />
+    <text
+       xml:space="preserve"
+       id="text13708"
+       style="font-size:32px;line-height:1.25;font-family:'Berlin Sans FB';-inkscape-font-specification:'Berlin Sans FB, Normal';white-space:pre;shape-inside:url(#rect13710)" />
+    <text
+       xml:space="preserve"
+       style="font-size:32px;line-height:1.25;font-family:'Berlin Sans FB';-inkscape-font-specification:'Berlin Sans FB, Normal'"
+       x="32.225838"
+       y="46.222511"
+       id="text32349"><tspan
+         id="tspan32347"
+         x="32.225838"
+         y="46.222511"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.3333px;font-family:'Berlin Sans FB';-inkscape-font-specification:'Berlin Sans FB, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">creatode</tspan></text>
+  </g>
+</svg>

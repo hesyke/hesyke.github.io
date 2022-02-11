@@ -1,7 +1,7 @@
 <?php include("header.php");?>
 <div class="mt-5">
     <div class="container p-0">
-        <h1 class="text-center"><i>Kreator Creatode</i></h1>
+        <h1 class="text-center"><i>c r e a t o d e</i></h1>
         <!-- Slider -->
             
         <div id="demo" class="carousel slide" data-bs-ride="carousel">
@@ -19,7 +19,7 @@
             <img src="img/slider.jpg" alt="chmurki" class="d-block" style="width:100%">
             <div class="carousel-caption">
             <h3><i>Witaj</i></h3>
-            <p><i>w markecie postaci creatode</i></p>
+            <p><i>w markecie postaci</i></p>
             </div>
         </div>
         <div class="carousel-item">
@@ -33,7 +33,7 @@
             <img src="img/kwiatki.jpg" alt="New York" class="d-block" style="width:100%">
             <div class="carousel-caption">
             <h3><i>Więcej informacji</i></h3>
-            <p><i>Na naszych mediach lub w zakładce kontakt</i></p>
+            <p><i>Na naszych mediach lub w zakładce informacje</i></p>
             </div>  
         </div>
         </div>
@@ -97,7 +97,7 @@
                           
                          </div>
                          
-                  <br> <br>    <h4> <p class="container text-white" style="background: rgba(1,1,1,0.3)"> Podoba Ci się to co widzisz ?
+                  <br> <br>    <h4> <p class="container text-white" style="background: rgba(1,1,1,0.3);text-align:center;"> Podoba Ci się to co widzisz ?
                          To tylko przykładowe projekty stworzone aby przyciągnąć uwagę potencjalnego klienta.
                          Nasi wykwalifikowani graficy chętnie przyjmą Twoje wyzwanie i stworzą unikalną postać,
                          której nie znajdziesz nigdzie indziej. Creatode ;)<i> </h4>
