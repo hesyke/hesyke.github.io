@@ -16,21 +16,21 @@
         <!-- The slideshow/carousel -->
         <div class="carousel-inner">
         <div class="carousel-item active">
-            <img src="img/ok.jpg" alt="Los Angeles" class="d-block" style="width:100%">
+            <img src="img/slider.jpg" alt="chmurki" class="d-block" style="width:100%">
             <div class="carousel-caption">
             <h3><i>Witaj</i></h3>
             <p><i>w markecie postaci creatode</i></p>
             </div>
         </div>
         <div class="carousel-item">
-            <img src="img/ok2.jpg" alt="Chicago" class="d-block" style="width:100%">
+            <img src="img/łaty.jpg" alt="Chicago" class="d-block" style="width:100%">
             <div class="carousel-caption">
             <h3><i>Postacie</i></h3>
             <p><i>Personalizujemy według twojego uznania</i></p>
             </div> 
         </div>
         <div class="carousel-item">
-            <img src="img/ok3.jpg" alt="New York" class="d-block" style="width:100%">
+            <img src="img/kwiatki.jpg" alt="New York" class="d-block" style="width:100%">
             <div class="carousel-caption">
             <h3><i>Więcej informacji</i></h3>
             <p><i>Na naszych mediach lub w zakładce kontakt</i></p>
@@ -54,7 +54,7 @@
 </div> 
     
     </div>
-<p class="container text-white" style="background: rgba(1,1,1,0.3)"> Lorem Ipsum is simply dummy text of the printing and typesetting industry.
+<p class="container text-white" style="background: rgba(1,1,1,0.3)"> Zobacz nasze projekty:
                       </p>
 
                     <div class="container d-flex justify-content-evenly">
@@ -90,17 +90,18 @@
                      <img src="img/rozdzielenie.png" alt="test" >
                     <!-- Szersze niż container -->
                 </div>
-                <div class="grafika mt-2 container"  style="display: flex; justify-content: left; ">
-                     <img src="img/grafika.jpg" alt="test" style="width: 30%; height: auto;">
-                     <h1> <i>Podoba Ci się to co widzisz ?
+                
+                         <br>
+                         <div class="pracownicy mt-2"  style="display: flex; justify-content: center; ">
+                            <img src="img/pracownicy.jpg" alt="test" width="550" height="auto">
+                          
+                         </div>
+                         
+                  <br> <br>    <h4> <p class="container text-white" style="background: rgba(1,1,1,0.3)"> Podoba Ci się to co widzisz ?
                          To tylko przykładowe projekty stworzone aby przyciągnąć uwagę potencjalnego klienta.
                          Nasi wykwalifikowani graficy chętnie przyjmą Twoje wyzwanie i stworzą unikalną postać,
-                         której nie znajdziesz nigdzie indziej. Creatode ;)<i> </h1> 
-                         <br>
-                         <div style="display: flex; justify-content: right; align-items: end;">
-                            <img src="img/pracownicy.jpg" alt="test" style="width: 80%; height: auto;">
-                         </div>
-                     </p>
+                         której nie znajdziesz nigdzie indziej. Creatode ;)<i> </h4>
+                     
                      
                 </div> 
                 <div class="rozdzielenie mt-2"  style="display: flex; justify-content: center; ">

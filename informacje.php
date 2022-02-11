@@ -32,5 +32,18 @@
     </div>
 
     <!-- Szersze niż container -->
+
+    <div class="grafika mt-2 container"  style="display: flex; justify-content: center; ">
+                     <img src="img/grafika.jpg" alt="test" style="width: 30%; height: 20%;"> <br>
+                     </div>
+                          <i><p><h5> Napisz do nas!<h5>
+                          <p class="container text-white" style="background: rgba(1,1,1,0.3)"> Szczegółowy opis pomoże nam sprostać twoim oczekiwaniom.
+                             Stały kontakt z nami zapewniamy nie tylko przez kontakt telefoniczny oraz mail.
+                             Od teraz możesz komunikować się z nami za pomocą formularza.
+                             Prosimy sprawdzać zakładke "Powaidomienia" <p> <i> 
+
+                             
+                         
+                         
 </div>
 <?php include("footer.php");?>

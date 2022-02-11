@@ -53,7 +53,7 @@
                         </div>
                     </div>
                     <div class="logo">
-                        <a href="index.php"><span>Creatode</span></a>
+                        <a href="index.php"><span><h2>Creatode<h2></span></a>
                     </div>
                     <div class="ikonki">
                     <a href="koszyk.php"><i class="bi bi-basket"></i></a>

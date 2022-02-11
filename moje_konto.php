@@ -9,7 +9,7 @@
         <a href="#">Sprawdź swoje zamówienia</a>
         <a href="#">Zgłość reklamacje</a>
     </div>
-    <div>
+    <div></div>
         <strong>Twoje dane:</strong> 
         <strong>ID:</strong> <?php echo $_COOKIE["login"]; ?>
         <strong>Login:</strong> <?php echo $_COOKIE["login"];?>
