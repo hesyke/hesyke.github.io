@@ -41,7 +41,16 @@
             <div class="d-flex flex-column"> <!-- Dwa wiersze-->
                 <div class="menu d-flex justify-content-between align-items-center pb-4">
                     <div class="lista">
-                        <i class="bi bi-list"></i>
+                        <div class="dropdown">
+                            <i class="bi bi-list" id="dropdownMenu2" data-bs-toggle="dropdown" aria-expanded="false"></i>
+                            <ul class="dropdown-menu" aria-labelledby="dropdownMenu2">
+                                <li><a href="produkty.php"><button class="dropdown-item" type="button">Gotowe produkty</button></a></li>
+                                <li><button class="dropdown-item" type="button">koszyk</button></li>
+                                <li><button class="dropdown-item" type="button">moje konto</button></li>
+                                <li><button class="dropdown-item" type="button">o firmie</button></li>
+                               <li> <p class="dropdown-item">  kontakt tel. 143219651</p> </li>
+                            </ul>
+                        </div>
                     </div>
                     <div class="logo">
                         <a href="index.php"><span>Creatode</span></a>

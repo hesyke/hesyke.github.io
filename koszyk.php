@@ -20,5 +20,8 @@
     </div>
     <div class="container">    <button type="button" class="container btn btn-primary btn-lg">Przejdź do kasy </button></div>
     <!-- Szersze niż container -->
+    <script>
+        document.getElementsByTagName('body')[0].style.background = "url('img/sklep.png')";
+    </script>
 </div>
 <?php include("footer.php");?>

@@ -61,6 +61,7 @@
             <button type="submit">Zarejestruj się</button>
          </form>
         </div>
+        
         <!-- Stopka -->
         <div class="footer">
           <div class="about-company">
