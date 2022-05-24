@@ -23,7 +23,7 @@
             </div>
         </div>
         <div class="carousel-item">
-            <img src="img/łaty.jpg" alt="Chicago" class="d-block" style="width:100%">
+            <img src="img/slider.jpg" alt="Chicago" class="d-block" style="width:100%">
             <div class="carousel-caption">
             <h3><i>Postacie</i></h3>
             <p><i>Personalizujemy według twojego uznania</i></p>
